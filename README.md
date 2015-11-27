@@ -28,17 +28,17 @@ pkg-config : 開発環境は0.29
 でok.
 _cascadefileについて_
 
-* haarcascade&underscore;eye.xml
+* haarcascade_eye.xml
 
-* haarcascade&underscore;frontalface&underscore;alt2.xml
+* haarcascade_frontalface_alt2.xml
 
-* haarcascade&underscore;fullbody.xml
+* haarcascade_fullbody.xml
 
-* haarcascade&underscore;lowerbody.xml
+* haarcascade_lowerbody.xml
 
-* haarcascade&underscore;upperbody.xml
+* haarcascade_upperbody.xml
 
-* haarcascade&underscore;profileface.xml
+* haarcascade_profileface.xml
 
 のどれかを指定。他にもある。.xmlの場所は各々の環境による。
 
